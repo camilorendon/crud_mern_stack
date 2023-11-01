@@ -1,4 +1,4 @@
-import react from 'react'
+import React from 'react'
 import UserUnique from './UserUnique'
 
 function ListUsers() {
